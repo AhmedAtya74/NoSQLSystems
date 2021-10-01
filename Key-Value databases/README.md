@@ -20,3 +20,5 @@ You can start Cassandra with ```` sudo service cassandra start ```` and stop it 
 Verify that Cassandra is running by invoking ```` nodetool status ```` from the command line
 
 To connected to cluster use ```` cqlsh ````
+
+- [Reference](https://cassandra.apache.org/_/download.html)
